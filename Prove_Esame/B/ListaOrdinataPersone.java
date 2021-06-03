@@ -1,5 +1,3 @@
-package provaB;
-
 class Persona implements Comparable<Persona>{
 	private String nome;
 

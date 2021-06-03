@@ -1,5 +1,3 @@
-package provaB;
-
 class ListaPari100{
 	class Nodo{
 		int dato;

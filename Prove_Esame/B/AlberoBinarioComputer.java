@@ -1,4 +1,3 @@
-package provaB;
 class Computer implements Comparable<Computer>{
 	private int costo;
 	
