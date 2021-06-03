@@ -22,6 +22,12 @@ Source code of Info 2 OOP course's exercises @ UniBg - Computer Engineering 2020
 * [Perimetro](Capitolo6/src/Perimetro.java)
 * [UsoOverriding](Capitolo6/src/UsoOverriding.java)
 
+## Capitolo 9
+* [Automobile](Capitolo9/src/Automobile.java)
+* [Frazione](Capitolo9/src/Frazione.java)
+* [Orario](Capitolo9/src/Orario.java)
+* [Studente](Capitolo9/src/Studente.java)
+
 ## Exe 1
 * [Es1](Exe1/src/Es1.java)
 * [Es1_4](Exe1/src/Es1_4.java)
