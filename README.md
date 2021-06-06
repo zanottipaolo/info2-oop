@@ -48,6 +48,10 @@ Source code of Info 2 OOP course's exercises @ UniBg - Computer Engineering 2020
 * [UsoClasseGenerica](Capitolo11/src/UsoClasseGenerica.java)
 * [BubbleSort](Capitolo11/src/BubbleSort.java)
 * [RicercaDicotomica](Capitolo11/src/RicercaDicotomica.java)
+* [OrdinamentoMergeSort](Capitolo11/src/OrdinamentoMergeSort.java)
+
+## Capitolo 13
+* [StackProva](Capitolo13/src/StackProva.java)
 
 ## Esercizi Generali
 ### Orario

@@ -70,7 +70,7 @@ public class BubbleSort {
 		BubbleSort alg = new BubbleSort();
 		int[] a = {5, 1, 8, 7, 10};
 		String[] s = {"Ciao", "Algebra", "Tavolo", "Mela"};
-		Integer[] i = {486, 20, 48949, 47};
+		Integer[] i = {486, 200, 48949, 47};
 		
 		System.out.println(Arrays.toString(a));
 		System.out.println("Ordino l'array...");
