@@ -52,6 +52,9 @@ Source code of Info 2 OOP course's exercises @ UniBg - Computer Engineering 2020
 
 ## Capitolo 13
 * [StackProva](Capitolo13/src/StackProva.java)
+* [Stack](Capitolo13/src/Stack_Dyn.java)
+* [Coda](Capitolo13/src/Coda.java)
+* [AlberoBinario](Capitolo13/src/AlberoBinario.java)
 
 ## Esercizi Generali
 ### Orario
