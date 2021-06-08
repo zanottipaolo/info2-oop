@@ -93,3 +93,4 @@ Source code of Info 2 OOP course's exercises @ UniBg - Computer Engineering 2020
 * [AlberoBinarioComputer](Prove_Esame/B/AlberoBinarioComputer.java)
 * [AlberoBinarioStudente](Prove_Esame/B/AlberoBinarioStudente.java)
 * [MergeSortAuto](Prove_Esame/B/MergeSortAuto.java)
+* [Primo Appello Giugno 2021](Prove_Esame/B/prima_giugno2021.java)
