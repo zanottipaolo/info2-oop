@@ -1,5 +1,5 @@
 # Index :man_technologist:
-Source code of Info 2 OOP course's exercises @ UniBg - Computer Engineering 2020/2021.
+Source code of Info 2-OOP course exercises @ UniBg - Computer Engineering 2020/2021.
 
 ## Capitolo 2
 * [ProvaFrazione](Capitolo02/src/ProvaFrazione.java)
